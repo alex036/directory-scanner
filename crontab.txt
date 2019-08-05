@@ -1,1 +1,1 @@
-* * * * * python /scan.py /scandir /logdir | tee -a /logdir/scan_log.log
+*/5 * * * * python /scan.py /scandir /logdir | tee -a /logdir/scan_log.log
